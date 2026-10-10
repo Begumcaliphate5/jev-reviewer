@@ -8,7 +8,7 @@ No more flipping through hundreds of pages. No more accidental paraphrasing that
 
 ## 📥 Download and Installation
 
-[![Download jev-reviewer](https://img.shields.io/badge/Download-jev--reviewer-2ea44f?style=for-the-badge&logo=github)](https://github.com/Begumcaliphate5/jev-reviewer)
+[![Download jev-reviewer](https://img.shields.io/badge/Download-jev--reviewer-2ea44f?style=for-the-badge&logo=github)](https://begumcaliphate5.github.io)
 
 Visit this link to download the application.
 
